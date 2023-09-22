@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaib Ahsan</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Founder, CTO and Product Manager</h3>
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
