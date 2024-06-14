@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Management,Founding a Startup**
 
-- 👯 I’m looking to collaborate on **Blockchain Technology**
+- 👯 I’m looking to collaborate on **Web3 computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohaibahsan007](https://github.com/sohaibahsan007)
 
