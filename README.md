@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohaib Ahsan</h1>
 <h3 align="center">Founder, CTO and Product Manager</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaibahsan007&label=Profile%20views&color=0e75b6&style=flat" alt="sohaibahsan007" /> </p>
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
